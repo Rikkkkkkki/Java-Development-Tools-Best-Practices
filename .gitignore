@@ -1,0 +1,32 @@
+# Build output
+target/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+out/
+
+# MacOS system files
+.DS_Store
+
+# Logs and temp files
+*.log
+*.tmp
+*.swp
+
+# Optional: binaries / JARs if not managed by Maven/Gradle
+*.jar
+*.class
+
+# VS Code settings (if ever used)
+.vscode/
+
+# Maven / Gradle specific
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
