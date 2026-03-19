@@ -1,5 +1,5 @@
 # Course Assignments - Java Development Tools Best Practices
-# Tatia Tkeshelashvili
+## Tatia Tkeshelashvili
 
 This repository contains my assignments for the course.
 
